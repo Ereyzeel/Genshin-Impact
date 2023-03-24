@@ -52,7 +52,7 @@ main::after{
 }
 
 .carousel-btn .botao.selecionado{
-    background-color: green;
+    background-color:#e65762;
 } 
 
 .menu-lateral{
