@@ -4,6 +4,7 @@ This project was mentored by **[Dev em Dobro](https://www.youtube.com/@DevemDobr
 
 ## How it looks?
 
-<img src="./images/gif-apresentation.gif">  <img src="./images/gif-icons.gif">
+# On Desktop
 
-_still learning how to use MarkDown_
+<img height=500 src="./images/gif-desktop-genshin.gif">  <img height=200 src="./images/gif-icons.gif">
+
